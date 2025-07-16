@@ -1,5 +1,5 @@
 [versions]
-agp = "8.12.0-alpha04"
+agp = "8.12.0-alpha09"
 kotlin = "2.2.0"
 coreKtx = "1.16.0"
 lifecycleRuntimeKtx = "2.9.1"
@@ -9,8 +9,8 @@ ktor = "3.2.2"
 hilt = "2.56.2"
 hiltNavigationCompose = "1.2.0"
 ksp = "2.2.0-2.0.2"
-datastore = "1.1.1"
-navigationCompose = "2.8.7"
+datastore = "1.1.7"
+navigationCompose = "2.9.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
