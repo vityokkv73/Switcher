@@ -71,6 +71,9 @@ dependencies {
     // DataStore dependencies
     implementation(libs.androidx.datastore.preferences)
 
+    // Crypto dependency
+    implementation(libs.androidx.security.crypto)
+
     // Navigation dependencies
     implementation(libs.androidx.navigation.compose)
 }
